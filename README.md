@@ -193,7 +193,7 @@ See also: [awesome-kafka-connect](https://github.com/conduktor/awesome-kafka-con
 - [Confluent Hub](https://www.confluent.io/hub/) - Official connector marketplace.
 - [Lenses Stream Reactor](https://github.com/lensesio/stream-reactor) - Collection of 25+ open-source connectors.
 - [Kafka Connect Datagen](https://github.com/confluentinc/kafka-connect-datagen) - Generate mock data for testing.
-- [Voluble](https://github.com/MichaelDrogalis/voluble) - Realistic data generator for Kafka Connect.
+- [Voluble](https://github.com/MichaelDrogalis/voluble) - Realistic tor for Kafka Connect.
 - [Spooldir Source](https://github.com/jcustenborder/kafka-connect-spooldir) - Monitor directories for new files.
 
 ## Schema Registry
@@ -313,6 +313,7 @@ See also: [awesome-kafka-connect](https://github.com/conduktor/awesome-kafka-con
 - 📦 [Datagen](https://github.com/MaterializeInc/datagen) - Multi-format data generator by Materialize.
 - [Mockingbird](https://github.com/tinybirdco/mockingbird) - Mock streaming data generator.
 - [DataFaker](https://github.com/datafaker-net/datafaker) - Java library for generating realistic fake data.
+- [Eventum](https://github.com/eventum-generator/eventum) - Data generation platform for producing synthetic event streams based on templates.
 
 ### Benchmarking
 - [kafka-producer-perf-test](https://kafka.apache.org/documentation/#basic_ops_producer_perf) - Built-in producer performance testing tool.
